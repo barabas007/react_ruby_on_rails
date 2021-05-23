@@ -2,6 +2,7 @@
   <dictionary name="barabas">
     <words>
       <w>activestorage</w>
+      <w>bytitle</w>
       <w>capybara</w>
       <w>flexslider</w>
       <w>jbuilder</w>

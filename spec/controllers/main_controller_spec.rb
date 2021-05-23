@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe MainController, type: :controller do
   describe "GET #index" do
-    pending "add some examples (or delete) #{__FILE__}"
+
     let(:brands) { create_list :brand, 3 }
     let(:hits)   { create_list :product, 8 }
 
